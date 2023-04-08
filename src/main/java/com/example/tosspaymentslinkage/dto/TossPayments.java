@@ -1,4 +1,4 @@
-package com.example.tosspaymentslinkage.controller;
+package com.example.tosspaymentslinkage.dto;
 
 import lombok.Data;
 import lombok.Getter;
